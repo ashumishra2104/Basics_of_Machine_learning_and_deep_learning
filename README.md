@@ -1,5 +1,5 @@
 # 🤖 Basics of Machine Learning & Deep Learning
-### A Comprehensive Study Guide — Slides 1 to 83
+### A Comprehensive Study Guide 
 
 > *Written for curious minds at every level. No coding background required.*
 
